@@ -32,13 +32,21 @@ var checkBinarySearchTree = function(tree) {
 	}
 
 	return true;
-}
-
+};
 
 
 // Write an algorithm to find the height of a binary search tree
 
+- 'Find how many nodes down a tree traverses'
 
+- 'Check node for children (tree.left or tree.right)'
+- 'Increment counter by 1 if node has child'
+- 'Keep traversing down until node no longer has any children'
+- ''
+
+var findHeight = function(tree) {
+
+};
 
 
 
